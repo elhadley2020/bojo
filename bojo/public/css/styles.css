@@ -1,0 +1,47 @@
+.mdl-layout-title a {
+	text-decoration:none;
+	color:white;
+}
+#drawer-title{
+	color: #757575;
+}
+
+content h1{
+	font-size:40px;
+	text-align:center;
+}
+
+content h2{
+	font-size:30px;
+	margin-left:10px;
+}
+
+content h3{
+	font-size:20px;
+	margin-left:20px;
+}
+content p{
+	margin-left:20px;
+	padding-right:50px;
+}
+
+
+.container{
+	margin:auto;
+	width:80%;
+}
+.container h1{
+	font-size:40px;
+	text-align:center;
+}
+.container h2{
+	font-size:30px;
+	margin-left:10px;
+}
+.container h3{
+	font-size:20px;
+	margin-left:20px;
+}
+
+
+
